@@ -10,18 +10,18 @@ Tässä tehtävässä on ohjeet, miten voit ilmoittautua kurssille sekä antaa k
 
 ## Ilmoittautuminen
 
-Ilmoittaudu kurssille Avoimen yliopiston kautta [verkkolomakkeella](https://www.avoin.helsinki.fi/palvelut/esittely.aspx?s=otm-bfe0322c-9432-4c8f-ba85-a03b073e77a3).
+Ilmoittaudu kurssille Avoimen yliopiston kautta [verkkolomakkeella](https://www.avoin.helsinki.fi/palvelut/esittely.aspx?s=otm-43dcf98b-7586-42fe-82e5-3feb4a560932).
 
-Kurssin suoritusmerkinnän saaminen vaatii, että ilmoittaudut kurssille viimeistään 8.3.2026.
+Kurssin suoritusmerkinnän saaminen vaatii, että ilmoittaudut kurssille viimeistään 28.6.2026.
 
 ## Kurssipalaute
 
-Anna kurssipalaute [Norppa-järjestelmän](https://coursefeedback.helsinki.fi/targets/95200219) kautta.
+Anna kurssipalaute [Norppa-järjestelmän](https://coursefeedback.helsinki.fi/targets/95022769) kautta.
 
-Palaute on anonyymia ja palautteen yhteenveto julkaistaan kurssisivustolla. Anna palaute viimeistään 9.3.2026.
+Palaute on anonyymia ja palautteen yhteenveto julkaistaan kurssisivustolla. Anna palaute viimeistään 29.6.2026.
 
-Jos sinulla ei ole Helsingin yliopiston tunnuksia, pystyt antamaan palautteen ilmoittautumisen jälkeen sähköpostitse tulevien ohjeiden avulla. Ohjeet palautteen antamiseen tulevat vuorokauden kuluessa ilmoittautumisesta.
+Jos sinulla ei ole Helsingin yliopiston tunnuksia, pystyt antamaan palautteen ilmoittautumisen jälkeen sähköpostitse tulevien ohjeiden avulla. Ohjeet palautteen antamiseen tulevat viimeistään seuraavana päivänä ilmoittautumisesta.
 
 ## Palautusohje
 
-Tätä tehtävää ei tule pdf-raporttiin. Saat laskea mukaan pisteet tehtävästä, jos olet ilmoittautunut kurssille sekä antanut (tai tulet antamaan) kurssipalautteen.
+Raportissa riittää mainita, että olet suorittanut tämän tehtävän eli olet ilmoittautunut kurssille sekä antanut (tai tulet antamaan) kurssipalautteen.

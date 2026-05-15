@@ -31,14 +31,14 @@ products.add_tuple((5, "selleri", 4))
 
 print(products)
 
-print(projection(products, ("name")))
-print(projection(products, ("price")))
+print(projection(products, ("name",)))
+print(projection(products, ("price",)))
 print(projection(products, ("name", "price")))
 
 print(restriction(products, "name", "porkkana"))
 print(restriction(products, "price", 4))
 
-print(projection(restriction(products, "price", 4), ("name")))
+print(projection(restriction(products, "price", 4), ("name",)))
 ```
 
 Koodin tulostuksen tulisi näyttää seuraavan kaltaiselta:

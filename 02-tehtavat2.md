@@ -1,16 +1,19 @@
 ---
 title: Projektitehtävät
 permalink: /projekti/
-hide: true
 ---
 
 # Projektitehtävät
 
-Tältä sivulta löydät kurssin projektitehtävät. Tehtävien aiheina on ohjelmointi, tietokannan suunnittelu ja tietokantojen ominaisuudet. Viimeisessä tehtävässä on ohjeet, miten voit ilmoittautua kurssille sekä antaa kurssipalautteen.
+Tältä sivulta löydät kurssin projektitehtävät.
 
-Kaikissa ohjelmointitehtävissä voit käyttää Python-kieltä tai R-kieltä. Voit hyödyntää tehtävien ratkaisemisessa haluamallasi tavalla nettilähteitä ja tekoälytyökaluja.
+Sinun tulee ratkaista tehtävät itsenäisesti, mutta voit hyödyntää tehtävien ratkaisemisessa haluamallasi tavalla nettilähteitä ja tekoälytyökaluja.
 
-Tehtävien ratkaisut palautetaan yhtenä pdf-raporttina. Jokaisessa tehtävässä on kuvattu tarkemmin, mitä tehtävästä tulee palauttaa. Kerro raportissa myös, mitä lähteitä olet käyttänyt sekä miten olet käyttänyt tekoälytyökaluja.
+Kaikissa ohjelmointitehtävissä voit käyttää Python-kieltä tai R-kieltä.
+
+Tehtävien ratkaisut palautetaan yhtenä pdf-raporttina. Jokaisessa tehtävässä on kuvattu tarkemmin, mitä tehtävästä tulee palauttaa.
+
+Lisää raportin loppuun tiedot käyttämistäsi lähteistä. Jos olet käyttänyt tekoälytyökaluja, kerro myös, miten olet käyttänyt niitä.
 
 Suositeltava tapa tehdä raportti on käyttää LaTeXia ja kurssin raporttipohjaa ([tex](../raportti.tex), [pdf](../raportti.pdf)). Voit myös tehdä raportin jollain muulla työkalulla, kunhan tuloksena oleva raportti on saman rakenteinen kuin edellä oleva pdf-tiedosto.
 

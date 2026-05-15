@@ -25,7 +25,7 @@ Arvosanarajat ovat:
 * 172–189 pistettä: 4
 * 190–200 pistettä: 5
 
-Kaikilla suorituksilla on yhteinen deadline su 28.6.2026 klo 23:59.
+Kaikilla tehtävillä on yhteinen deadline su 28.6.2026 klo 23:59.
 
 ## Yhteystiedot
 
