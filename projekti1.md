@@ -8,7 +8,7 @@ hide: true
 
 Tämän tehtävän aineistona on tietokanta, joka sisältää tiedot kaupunkipyörillä tehdyistä matkoista vuonna 2024 Helsingin ja Espoon alueella. Tietokanta perustuu HSL:n julkaisemaan [avoimen datan aineistoon](https://www.avoindata.fi/data/fi/dataset/helsingin-ja-espoon-kaupunkipyorilla-ajatut-matkat), joka on muutettu tätä kurssia varten SQLite-tietokannaksi.
 
-Voit kopioida tietokannan itsellesi tästä: [bikes_2024.zip](https://cs.helsinki.fi/u/ahslaaks/bikes_2024.zip)
+Voit kopioida tietokannan itsellesi tästä: [bikes_2024.zip](../bikes_2024.zip)
 
 Tietokannassa on seuraavat kaksi taulua:
 
