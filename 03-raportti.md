@@ -34,24 +34,24 @@ _Kommentti_: Vaikka tämän kurssin toteutustapa ei sopinut itselle, tämä tunt
 
 ## Kurssipalaute
 
-Kurssipalautteen antoi 61 opiskelijaa.
+Kurssipalautteen antoi 67 opiskelijaa.
 
 ### Numeerinen palaute
 
 Arvioi seuraavia väitteitä (1 = täysin eri mieltä, 5 = täysin samaa mieltä):
 
-* Osaamistavoitteet olivat selvät: 4.52
+* Osaamistavoitteet olivat selvät: 4.53
 * Toteutustapa tuki oppimistani: 4.33
-* Materiaalit tukivat oppimistani: 4.33
-* Arviointi mittasi oppimistani: 4.11
+* Materiaalit tukivat oppimistani: 4.30
+* Arviointi mittasi oppimistani: 4.15
 
 Kurssin raskaus (1 = turhan kevyt, 5 = turhan raskas):
 
-* Työmäärä suhteessa opintopisteisiin oli: 3.28
+* Työmäärä suhteessa opintopisteisiin oli: 3.24
 
 Kurssin kokonaisarvosana:
 
-* Kokonaisarvosana kurssille: 4.12
+* Kokonaisarvosana kurssille: 4.14
 
 ### Miten kehittäisit kurssia?
 
@@ -117,6 +117,12 @@ Kurssin kokonaisarvosana:
 * Kurssin tarvoitteita voisi vielä selkeyttää opiskelijoille.
 * Projektitehtävän 3 viimeinen kysymys "Miten perustelet nämä tulokset?" oli epäselvä enkä tiedä mitä sillä haluttiin. Uudelleenmuotoilu esim. "miksi näin tapahtuu" (jos se on se mitä yritetään kysyä) olisi parempi. Sen lisäksi oppimateriaalin kappaleessa 5 kohdassa SQLite Pythonissa, Tietokantatiedoston sijainti, voitaisiin mainita, missä tiedoston pitäisi olla sen lisäksi, että kerrotaan tiedoston luultavasti olevan "väärässä paikassa".
 * Materiaali ja tehtävät tukivat hyvin oppimista ja etenivät loogisessa järjestyksessä. Materiaalissa olleet esimerkit koodin soveltamisesta käytännön tilanteisiin toivat hyvää mietittävää muuten aika tekniseen aiheeseen. Itse olisin alusta saakka tarvinnut perusteellisempaa ohjausta eri ohjelmien avaamiseen ja sen puuttuessa SQL:n sekä R:n käytön aloitus veivät suhteettoman paljon aikaa kurssilla. Tekoälyä jouduin näiden suhteen hyödyntämään jo tehtävien ensimmäisessä osiossa. Discordia en onnistunut ottamaan käyttöön ja siksi kysyin epäselviä kohtia tekoälyltä. Olisi toki mukavampaa keskustella oikean ihmisen kanssa kuin koneen.
+* En keksi kurssille siinä muodossa kuin se nykyisellään on erityistä kehitettävää.
+* En koe, että kurssilla on mitään suuria kehityksen kohteita, se oli hyvin toteutettu ja itselleni mieleinen
+* Koska kurssi on pääosin itsenäinen, kurssin päätöksessä voisi olla vielä selkeämpi mainint kaikista suorituksista. Esimerkiksi: ”Otsikko : Kurssin päätyttyä: - Olet tehnyt 60-100 SQL-tehtävää, jotka tallentuvat automaattisesti järjestelmään
+* Itse olin hieman huolissani tuleeko myös SQL-tehtävät palauttaa jollain tavalla, vai voiko ne vaan jättää sellaisenaan kurssin päätyttyä.
+* Pidin kurssista. Ainoana huomiona on, että kappaleiden 2 ja 4 välillä on jonkin verran toistoa. Kappale 4 tuntui myös hieman sekavalta verrattuna esim. kappaleeseen 2. Se ei sinänsä ollut huono ja kaikki olennainen mainittiin, mutta sen voisi jäsentää selkeämmin.
+* SQL funktioita ja menetelmiä voisi käydä läpi vielä enemmän kurssin kappaleissa
 
 ### Muita huomioita
 
@@ -131,3 +137,4 @@ Kurssin kokonaisarvosana:
 * Pidin siitä, että kurssin tehtävät jakautuivat kahteen osaan, joista toinen oli selkeästi omaa teknistä osaamista kehittävää (sql-tehtävät) ja toinen mahdollisti luovemman toteustavan esimerkiksi tekoälyä käyttäen. Tämä on mielestäni kannustava tapa tällaisten työelämässä tekoälyn avulla suoritettavien työtehtävien opetteluun. Hakisin kehityskohteita projektitehtävien sisällöstä.
 * Ei oikeastaan
 * Pidin todella paljon lyhyistä sqllite tehtävistä. Onnistuminen niissä tehtävä tehtävän jälkeen antoi niin paljon dopamiinia, että kurssin suorittaminen tuntui kuin peliltä.
+* :)
